@@ -14,8 +14,10 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
   
         #include <vector>
         #include <iostream> 
+        
         long sumTwoSmallestNumbers(std::vector<int> numbers)
         {
+        
           int size = numbers.capacity();
           long lowestsNumbers [2];
           
@@ -31,15 +33,13 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
           for(int x = 0; x<2; x++){
         
             for(int y=0; y<size; y++){
-              
-        
+            
               switch(x){
-                    
+                  
                   case 0:
                   if(lowestsNumbers[x] > numbers[y] ){
         
                     lowestsNumbers[x] = numbers[y];
-        
                   }
                   break;
                   
@@ -51,12 +51,7 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
                   break;
               }
             }
-        
-            
           } 
-                
-        
-          
             return lowestsNumbers[0]+lowestsNumbers[1];
         }
         
