@@ -13,7 +13,7 @@ For example (Input --> Output):
 
 
 ## Solution
-    <solution>
+
     #include <vector>
     #include <array>
     #include <algorithm>
