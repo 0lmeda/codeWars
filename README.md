@@ -6,3 +6,5 @@ This directory contains solutions to various Code Wars challenges.
 3. [Phone Number](create_Phone_Number.md)
 3. [Even or Odd](Even_Or_Odd.md)
 4. [Number To String](Number_To_String.md)
+5. [Count characters](
+6. [Odd or Even sum](Odd_Or_Even.md)
