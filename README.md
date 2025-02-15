@@ -8,3 +8,4 @@ This directory contains solutions to various Code Wars challenges.
 4. [Number To String](Number_To_String.md)
 5. [Count characters](count_Characters.md)
 6. [Odd or Even sum](Odd_Or_Even.md)
+7. [Stop gninnipS My sdroW!](Stop_gninnipS.md)
