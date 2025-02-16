@@ -9,3 +9,4 @@ This directory contains solutions to various Code Wars challenges.
 5. [Count characters](count_Characters.md)
 6. [Odd or Even sum](Odd_Or_Even.md)
 7. [Stop gninnipS My sdroW!](Stop_gninnipS.md)
+8. [Split Strings](Split.Strings.md)
